@@ -18,6 +18,21 @@
                 "path": "/home",
                 "icon": "fa-home",
                 "pageSrc": "home.html"
+            },
+            {
+                "name": "Hello World",
+                "path": "/hello-world",
+                "pageSrc": "hello-world.html"
+            },
+            {
+                "name": "Add item",
+                "path": "/add-item",
+                "pageSrc": "add-item.html"
+            },
+            {
+                "name": "Show items",
+                "path": "/show-items",
+                "pageSrc": "show-items.html"
             }
         ]
     }
