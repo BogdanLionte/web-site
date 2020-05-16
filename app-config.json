@@ -33,6 +33,11 @@
                 "name": "Show items",
                 "path": "/show-items",
                 "pageSrc": "show-items.html"
+            },
+            {
+                "name": "Delete items",
+                "path": "/delete-items",
+                "pageSrc": "delete-items.html"
             }
         ]
     }
